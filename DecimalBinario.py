@@ -5,9 +5,10 @@ def Binario2Decimal(binario):
          if bit == '1':
              valor=valor+2**(n­1)
          n ­=1
-    return valor
+
 
 #whatever
 #shut up dude
 #YOU WANNA FIGHT BITCH?
 #print("no")
+#VAMONOOOOOOOOH A VALENCHIACHOOOOOOOOORE
