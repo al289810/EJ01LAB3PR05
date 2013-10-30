@@ -34,7 +34,11 @@ A = crearLista()
 imprimirLista(A,"A")
 print "Suma = " + str(sumarListaPares(A))
 
+
+
 def sumarListaImpares(lista):
+#Comentario añadido por el Desarrollador A AKA BATMAN
+#PD: polillas
   sum = 0
   for i in range (0, len(lista)):
     if lista[i] % 2 == 0:
