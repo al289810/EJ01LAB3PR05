@@ -1,7 +1,7 @@
 # MiPrograma.py
 import random
  
-# -----------------------------------------------------
+# este pograma etah tan mal exo k me changran lo oho
 # -----------------------------------------------------
 def sumarListaPares(lista):
     sum=0
