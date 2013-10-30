@@ -6,3 +6,4 @@ def Binario2Decimal(binario):
              valor=valor+2**(n­1)
          n ­=1
     return valor
+#VAMONOOOOOOOOH A VALENCHIACHOOOOOOOOORE
